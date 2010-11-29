@@ -1,0 +1,41 @@
+/* 
+    Document   : style-general
+    Author     : sangprabo
+*/
+
+body {
+ background-color: #fff;
+ margin: 10px 40px 40px 40px;
+ font-family: Verdana, Arial, Sans-serif;
+ font-size: 12px;
+ color: #4F5155;
+}
+
+h1 {
+ color: #444;
+ background-color: transparent;
+ border-bottom: 1px solid #D0D0D0;
+ font-size: 16px;
+ font-weight: bold;
+ margin: 2px 0 2px 0;
+ padding: 5px 0 6px 0;
+}
+
+a {
+	text-decoration : underline;
+	color:blue;
+}
+
+.footer {
+	margin-top: 20px;
+	font-size: 8px;
+	border-top: 1px solid #ccc;
+}
+
+textarea {
+	font-family: Verdana, Arial, Sans-serif;
+	padding: 8px;
+	border: 1px solid #ccc;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}

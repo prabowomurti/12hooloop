@@ -1,0 +1,9 @@
+config/*
+errors/*
+helpers/*
+hooks/*
+index.html
+language/*
+libraries/*
+models/*
+nbproject/*
